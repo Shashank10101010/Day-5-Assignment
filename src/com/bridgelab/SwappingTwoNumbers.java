@@ -12,3 +12,4 @@ public class SwappingTwoNumbers {
             System.out.println("The value of m is " + m + " and the value of n is " + n);
         }
 }
+
