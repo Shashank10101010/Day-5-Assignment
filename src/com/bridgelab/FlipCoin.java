@@ -16,8 +16,8 @@ public class FlipCoin {
                 head++;
             i++;
         }
-        System.out.println("Head " + head );
-        System.out.println("Tail " + tail );
+        System.out.println("Head " + head);
+        System.out.println("Tail " + tail);
 
         float tailPercentage = ((float) tail / 20 * 100);
         float headPercentage = ((float) head / 20 * 100);
